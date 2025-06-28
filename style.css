@@ -319,7 +319,7 @@ body {
     object-fit: cover;
     border-radius: 10px;
     position: relative;
-    transition: all ease-in-out 0.2s;
+    transition: all ease-in-out 0.5s;
 }
 
 .trip-card2 img:hover{
